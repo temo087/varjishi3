@@ -1,0 +1,35 @@
+body {
+background-color: aquamarine;
+}
+.title{
+text-align: center;
+
+}
+.quetion{
+    margin-left: 350px;
+    color: purple;
+}
+.quiz{
+    margin-left: 350px;
+    color: brown;
+    width: 400px;
+    height: 30px;
+    display: block;
+}
+.name{
+    display: block;
+width: 400px;
+height: 40px;
+}
+.submit{
+    width: 70px;
+    height: 30px;
+    border: solid 2px black;
+    color: white;
+    background-color: blue;
+    align-items: center;
+    display: block;
+}
+
+
+
